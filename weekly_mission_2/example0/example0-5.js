@@ -5,4 +5,5 @@ const myPet = {
     }
 }
 console.log("Ejercicio 5:")
-console.log(myPet)
+console.log(yourPet)
+console.log(yourPet.name)
