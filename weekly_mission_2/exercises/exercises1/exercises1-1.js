@@ -17,6 +17,4 @@ console.log("Usuario: " + user.user)
 console.log("Siguiendo: " + user.following)
 console.log(user.getFollowersTot())
 console.log("Biografia:")
-console.log(user.bio)
-console.log()
-console.log("---------------------------------------------------------------")
+ 

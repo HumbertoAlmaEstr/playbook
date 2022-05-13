@@ -1,0 +1,14 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "\"Ejercicio creadndo una aplicacion twitter\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "\"Humberto Almazan\"",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}

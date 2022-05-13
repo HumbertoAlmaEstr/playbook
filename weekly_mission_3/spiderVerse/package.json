@@ -1,0 +1,14 @@
+{
+  "name": "2daprueba",
+  "version": "1.0.0",
+  "description": "\"Prueba para aplicar los conocimientos \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Humberto",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "\"Mi primer Proyecto\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HumbertoAlmaEstr"
+  },
+  "author": "\"Humberto Almazan Estrada\"",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
